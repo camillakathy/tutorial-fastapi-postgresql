@@ -16,7 +16,7 @@ To launch uvicorn:
 uvicorn sql_app.main:app --reload
 ```
 
-Then load the fancy interactive docs page at   
+Then load the fancy interactive docs page at    
   
 http://localhost:8000/docs
 
