@@ -13,7 +13,7 @@ Note that this demo uses the built-in async support in SQLAlchemy 1.4+ and does 
 To launch uvicorn:  
 
 ```
-uvicorn sql_app.main:app --reload
+uvicorn sql_app.main:app --reload  
 ```
 
 Then load the fancy interactive docs page at    
