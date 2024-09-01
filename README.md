@@ -10,7 +10,7 @@ Note that this demo uses the built-in async support in SQLAlchemy 1.4+ and does 
 
 ### How to run:
 
-To launch uvicorn:    
+To launch uvicorn:  
 
 ```
 uvicorn sql_app.main:app --reload
