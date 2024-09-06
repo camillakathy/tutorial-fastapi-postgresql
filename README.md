@@ -1,4 +1,4 @@
-# fastapi-tutorial-postgresql 
+# fastapi-tutorial-postgresql   
 
 The FastAPI SQL database tutorial 
 
