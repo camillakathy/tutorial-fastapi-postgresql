@@ -4,7 +4,7 @@ The FastAPI SQL database tutorial
 
 https://fastapi.tiangolo.com/tutorial/sql-databases/
 
-modified to use `postgresql+asyncpg` and real async calls.   
+modified to use `postgresql+asyncpg` and real async calls.  
 
 Note that this demo uses the built-in async support in SQLAlchemy 1.4+ and does **not** need the [databases](https://pypi.org/project/databases/) module. 
 
