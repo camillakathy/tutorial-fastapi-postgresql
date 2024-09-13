@@ -1,6 +1,6 @@
 # fastapi-tutorial-postgresql   
 
-The FastAPI SQL database tutorial 
+The FastAPI SQL database tutorial  
 
 https://fastapi.tiangolo.com/tutorial/sql-databases/
 
